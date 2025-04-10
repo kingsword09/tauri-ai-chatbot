@@ -1,0 +1,3 @@
+[submodule "ai-chatbot"]
+	path = ai-chatbot
+	url = https://github.com/kingsword09/ai-chatbot.git
