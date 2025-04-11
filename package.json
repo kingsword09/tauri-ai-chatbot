@@ -4,6 +4,7 @@
   "scripts": {
     "next:dev": "pnpm -F ai-chatbot run dev",
     "next:build": "pnpm -F ai-chatbot run build",
+    "db:migrate": "pnpm -F ai-chatbot run db:migrate",
     "dev": "pnpm tauri dev"
   },
   "repository": {
