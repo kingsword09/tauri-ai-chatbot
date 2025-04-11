@@ -1,0 +1,28 @@
+{
+  "name": "tauri-ai-chatbot",
+  "version": "0.0.1",
+  "scripts": {
+    "next:dev": "pnpm -F ai-chatbot run dev",
+    "next:build": "pnpm -F ai-chatbot run build",
+    "dev": "pnpm tauri dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kingsword09/tauri-ai-chatbot.git"
+  },
+  "keywords": [
+    "ai-chatbot",
+    "tauri",
+    "pglite"
+  ],
+  "author": "kingsword09 <kingsword09@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/kingsword09/tauri-ai-chatbot/issues"
+  },
+  "homepage": "https://github.com/kingsword09/tauri-ai-chatbot#readme",
+  "description": "",
+  "devDependencies": {
+    "@tauri-apps/cli": "^2.4.1"
+  }
+}
