@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "identifier": "com.tauri.dev",
   "build": {
-    "frontendDist": "../ai-chatbot/build",
+    "frontendDist": "../ai-chatbot/.next",
     "devUrl": "http://localhost:3000",
     "beforeDevCommand": "pnpm next:dev",
     "beforeBuildCommand": "pnpm next:build"
