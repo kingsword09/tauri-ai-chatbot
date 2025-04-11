@@ -1,8 +1,8 @@
 {
   "$schema": "../node_modules/@tauri-apps/cli/config.schema.json",
-  "productName": "app",
+  "productName": "ai-chatbot",
   "version": "0.1.0",
-  "identifier": "com.tauri.dev",
+  "identifier": "tech.kingsword.tauri.ai.chat",
   "build": {
     "frontendDist": "../ai-chatbot/.next",
     "devUrl": "http://localhost:3000",

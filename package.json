@@ -5,7 +5,8 @@
     "next:dev": "pnpm -F ai-chatbot run dev",
     "next:build": "pnpm -F ai-chatbot run build",
     "db:migrate": "pnpm -F ai-chatbot run db:migrate",
-    "dev": "pnpm tauri dev"
+    "dev": "pnpm tauri dev",
+    "build": "pnpm tauri build"
   },
   "repository": {
     "type": "git",
